@@ -35,8 +35,10 @@ ShellScript
 - Web Server  
 Nginx  
 - IaC  
-Terraform, Ansible  
-- Database  
+Terraform, Ansible
+- Monitoring
+Zabbix, Grafana  
+- Database   
 MySQL,PostgreSQL  
 <!--
 **Taichi-Dev-1222/Taichi-Dev-1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
