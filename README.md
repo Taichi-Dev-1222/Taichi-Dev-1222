@@ -2,28 +2,23 @@
 Infrastracture Engineer
 
 ## Portfolio🔥
-- Wordpress
+- Wordpress  
 https://github.com/Taichi-Dev-1222/wordpress
 
-- Ansible
+- Ansible  
 https://github.com/Taichi-Dev-1222/ansible_wordpress
 
-- Ansible + Zabbix + Grafana
+- Ansible + Zabbix + Grafana  
 https://github.com/Taichi-Dev-1222/zabbix_ansible
 
-- Docker
+- Docker  
 https://github.com/Taichi-Dev-1222/docker_rails
 
-- Kubernetes
+- Kubernetes  
 https://github.com/Taichi-Dev-1222/k8s_wordpress
 
-- Terraform + Ansible
-https://github.com/Taichi-Dev-1222/terraform_wordpress
-
-
-
-
-
+- Terraform + Ansible  
+https://github.com/Taichi-Dev-1222/terraform_wordpress  
 
 ## Blog📝
 - https://zenn.dev/taichi_dev
