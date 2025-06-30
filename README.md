@@ -1,12 +1,39 @@
-## Job 👋
+## Job💻
 Infrastracture Engineer
 
-## Blog/Portfolio
+## Portfolio🔥
+- Wordpress
+https://github.com/Taichi-Dev-1222/wordpress
+
+- Ansible
+https://github.com/Taichi-Dev-1222/ansible_wordpress
+
+- Ansible + Zabbix + Grafana
+https://github.com/Taichi-Dev-1222/zabbix_ansible
+
+- Docker
+https://github.com/Taichi-Dev-1222/docker_rails
+
+- Kubernetes
+https://github.com/Taichi-Dev-1222/k8s_wordpress
+
+- Terraform + Ansible
+https://github.com/Taichi-Dev-1222/terraform_wordpress
+
+
+
+
+
+
+## Blog📝
 - https://zenn.dev/taichi_dev
 - https://techbull.cloud/archives/2811
 
-## Community
+## Community🙌
 - https://techbull.cloud
+
+
+  
 <!--
 **Taichi-Dev-1222/Taichi-Dev-1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
