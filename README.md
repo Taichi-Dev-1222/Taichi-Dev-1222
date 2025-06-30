@@ -1,5 +1,12 @@
 ## Job 👋
 Infrastracture Engineer
+
+## Blog/Portfolio
+- https://zenn.dev/taichi_dev
+- https://techbull.cloud/archives/2811
+
+## Community
+- https://techbull.cloud
 <!--
 **Taichi-Dev-1222/Taichi-Dev-1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
