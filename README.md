@@ -27,8 +27,17 @@ https://github.com/Taichi-Dev-1222/terraform_wordpress
 ## Community🙌
 - https://techbull.cloud
 
-
-  
+## Skill☁️
+- Infra Cloud
+AWS, Docker, Kubernetes  
+- Programming
+ShellScript  
+- Web Server
+Nginx  
+- IaC
+Terraform, Ansible  
+- Database
+MySQL,PostgreSQL  
 <!--
 **Taichi-Dev-1222/Taichi-Dev-1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
