@@ -36,7 +36,7 @@ ShellScript
 Nginx  
 - IaC  
 Terraform, Ansible
-- Monitoring
+- Monitoring  
 Zabbix, Grafana  
 - Database   
 MySQL,PostgreSQL  
