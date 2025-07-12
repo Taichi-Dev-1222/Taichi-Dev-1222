@@ -29,7 +29,8 @@ https://github.com/Taichi-Dev-1222/terraform_wordpress
 ## Community🙌
 - https://techbull.cloud
 
-## Skill☁️
+## Skill☁️  
+詳細：https://flying-sphere-15d.notion.site/SkillMap-22e9535de25d81db8637d910e980e68b  
 - Infra Cloud  
 AWS, Docker, Kubernetes  
 - Programming  
