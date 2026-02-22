@@ -20,7 +20,13 @@ https://github.com/Taichi-Dev-1222/docker_rails
 https://github.com/Taichi-Dev-1222/k8s_wordpress
 
 - Terraform + Ansible  
-https://github.com/Taichi-Dev-1222/terraform_wordpress  
+https://github.com/Taichi-Dev-1222/terraform_wordpress
+
+- Terraform + New Relic
+https://github.com/Taichi-Dev-1222/newrelic_practice
+
+- CircleCI + Terraform
+https://github.com/Taichi-Dev-1222/circleci_terraform
 
 ## Blog📝
 - https://zenn.dev/taichi_dev
