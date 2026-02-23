@@ -32,9 +32,6 @@ https://github.com/Taichi-Dev-1222/circleci_terraform
 - https://zenn.dev/taichi_dev
 - https://techbull.cloud/archives/2811
 
-## Community🙌
-- https://techbull.cloud
-
 ## Skill☁️  
 詳細：https://flying-sphere-15d.notion.site/SkillMap-22e9535de25d81db8637d910e980e68b  
 - Infra Cloud  
